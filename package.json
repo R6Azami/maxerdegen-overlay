@@ -1,0 +1,14 @@
+{
+  "name": "maxerdegen-stream-overlay",
+  "version": "1.0.0",
+  "description": "MAXER DEGEN Chips.gg Live Stream Overlay & Real-Time Casino HUD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "degenmaxer",
+  "license": "MIT"
+}

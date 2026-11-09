@@ -1,0 +1,22 @@
+{
+  "apiKey": "fbd4db14-db87-487c-8c24-bee2054c68fd",
+  "username": "degenmaxer",
+  "mode": "demo",
+  "primaryCurrency": "usdt",
+  "currencySymbol": "€",
+  "demoStartingBalance": 961,
+  "demoBalance": 961,
+  "demoWagered": 0,
+  "demoSpins": 0,
+  "demoBestMultiplier": 0,
+  "demoBestWinUsd": 0,
+  "autoDetectSlot": true,
+  "activeSlot": {
+    "title": "Big Black Cock",
+    "provider": "CASINO",
+    "rtp": "96.28%",
+    "image": "https://cdn.hub88.io/hacksawgaming/hsg_leprechaun.jpg",
+    "slug": "wickedgames-big-black-cock",
+    "source": "browser-tab"
+  }
+}
